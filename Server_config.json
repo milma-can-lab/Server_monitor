@@ -3,50 +3,50 @@
     {
       "mac": "289165C000000062",
       "name": "Rack 1",
-      "warningOn": 30.0,
-      "warningOff": 28.5,
-      "criticalOn": 32.0,
-      "criticalOff": 30.5
+      "warningOn": 32.0,
+      "warningOff": 30.0,
+      "criticalOn": 38.0,
+      "criticalOff": 35.0
     },
     {
       "mac": "28DF4C4700000050",
       "name": "Rack 2",
-      "warningOn": 33.0,
-      "warningOff": 31.5,
-      "criticalOn": 35.0,
-      "criticalOff": 33.5
+      "warningOn": 30.0,
+      "warningOff": 28.0,
+      "criticalOn": 33.0,
+      "criticalOff": 31.0
     },
     {
       "mac": "28A23BBC0000005B",
       "name": "Rack 3",
-      "warningOn": 25.5,
-      "warningOff": 24.0,
+      "warningOn": 24.0,
+      "warningOff": 22.0,
       "criticalOn": 28.0,
-      "criticalOff": 26.5
+      "criticalOff": 26.0
     },
     {
       "mac": "28B8535300000033",
       "name": "Rack 4",
       "warningOn": 27.0,
-      "warningOff": 25.5,
-      "criticalOn": 29.5,
+      "warningOff": 25.0,
+      "criticalOn": 30.0,
       "criticalOff": 28.0
     },
     {
       "mac": "2858285100000000",
       "name": "Cool Air",
-      "warningOn": 23.5,
-      "warningOff": 22.5,
-      "criticalOn": 25.5,
-      "criticalOff": 24.5
+      "warningOn": 24.0,
+      "warningOff": 22.0,
+      "criticalOn": 27.0,
+      "criticalOff": 25.0
     },
     {
       "mac": "282B3EBB00000073",
       "name": "Room Temp",
-      "warningOn": 25.5,
-      "warningOff": 24.0,
+      "warningOn": 24.0,
+      "warningOff": 22.0,
       "criticalOn": 28.0,
-      "criticalOff": 26.5
+      "criticalOff": 26.0
     }
   ]
 }
